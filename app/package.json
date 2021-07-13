@@ -6,7 +6,7 @@
   "author": "Jasser Mark Arioste <knightjaz83@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.5.5",
     "bluebird": "3.5.0",
     "electron-is-dev": "0.1.2",
     "electron-log": "2.2.6",

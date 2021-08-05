@@ -17,7 +17,7 @@
     "knockout": "3.4.2",
     "lodash": "^4.17.4",
     "material-design-icons-iconfont": "3.0.3",
-    "materialize-css": "0.98.2",
+    "materialize-css": "0.100.2",
     "nedb": "1.8.0",
     "perfect-scrollbar": "0.6.16",
     "pica": "3.0.4",
